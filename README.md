@@ -26,3 +26,5 @@
 ## I would advice that continued analysis be conducted, specifically the following: 
 -	Age of ride share client 
 -	Ride sharing analysis during winter months 
+
+[link to dashboard](https://public.tableau.com/views/Ridesharingchallenge/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
